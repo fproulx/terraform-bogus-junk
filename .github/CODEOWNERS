@@ -1,8 +1,1 @@
-# Use this file to define individuals or teams that are responsible for code in a repository.
-# Read more: <https://help.github.com/articles/about-codeowners/>
-#
-# Order is important: the last matching pattern has the highest precedence
-
-# This module is used everywhere and changes must be carefully vetted,
-# so only allow cloudposse Admins to approve PRs.
-*             @cloudposse/admins
+*             @boguscorp/admins
